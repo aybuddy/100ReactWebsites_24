@@ -1,0 +1,50 @@
+.full-container {
+  background: url('/src/assets/cathal-mac-an-bheatha-CJAKsppS2co-unsplash.jpg')
+    no-repeat center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.text {
+  font-size: clamp(4vw, 28vw, 400px);
+  color: white;
+  background: black;
+  mix-blend-mode: darken;
+  width: 100%;
+  text-align: center;
+  padding: 224px 0;
+}
+
+/* .text {
+  display: inline-block;
+  margin: 0;
+  font-size: 400px;
+  background: url('/src/assets/tyler-finck-U_2AlnfIGIU-unsplash.jpg') no-repeat
+    center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: transparent;
+  background-clip: text;
+  width: 100%;
+} */
+
+/* .text {
+  color: white;
+  background: rgb(0, 0, 0, 1);
+  mix-blend-mode: multiply;
+  text-align: center;
+  font-size: 150px;
+  margin: 0 auto;
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  mix-blend-mode: multiply;
+} */
