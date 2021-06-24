@@ -107,7 +107,6 @@ p, li {
 .con-h {
   display: flex;
   padding: 1%;
-  height: calc(100vh - 120px);
 }
 
 .con-v {
@@ -119,16 +118,28 @@ p, li {
 .con618 {
   max-width: 742px; 
   flex: .618;
-  background-color: lightpink;
   order: 2;
+  width: 100%;
+}
+
+.con618-reverse {
+  max-width: 742px; 
+  flex: .618;
+  order: 1;
   width: 100%;
 }
 
 .con382 {
   flex: .382;
   max-width: 458px;
-  background-color: lightblue;
   order: 1;
+  width: 100%;
+}
+
+.con382-reverse {
+  flex: .382;
+  max-width: 458px;
+  order: 2;
   width: 100%;
 }
 
@@ -138,14 +149,12 @@ p, li {
 
 .con618-vert {
   flex: .618;
-  background-color: lightgreen;
   width: 100%;
   max-height: 61.8vh;
   height: 100%;
 }
 .con382-vert {
   flex: .382;
-  background-color: lightgoldenrodyellow;
   width: 100%;
   max-height: 38.2vh;
   height: 100%;

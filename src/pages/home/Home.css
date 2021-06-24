@@ -1,5 +1,5 @@
 .full-container {
-  background: url('/src/assets/cathal-mac-an-bheatha-CJAKsppS2co-unsplash.jpg')
+  background: url("/src/assets/images/chad-montano-MqT0asuoIcU-unsplash.jpg")
     no-repeat center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -48,3 +48,14 @@
   transform: translate(-50%, -50%);
   mix-blend-mode: multiply;
 } */
+
+.con618-vert img {
+  width: 100%;
+  height: auto;
+  max-height: 406px;
+}
+
+.con382-vert h1,
+h2 {
+  text-align: center;
+}

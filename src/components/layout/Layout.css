@@ -4,8 +4,8 @@
   align-items: center;
   justify-content: center;
   padding-top: 90px;
-  overflow-x: hidden;
-  background-color: lightseagreen;
+  overflow: hidden;
+  /* background-color: lightseagreen; */
   /* height: 100%; */
   padding: 10px;
 }
@@ -13,7 +13,7 @@
 .layout-wrapper {
   width: 100%;
   max-width: 1200px;
-  background-color: lightslategrey;
+  /* background-color: lightslategrey; */
   display: flex;
   align-items: center;
   justify-content: center;

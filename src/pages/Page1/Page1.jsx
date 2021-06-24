@@ -6,7 +6,7 @@ const Page1 = () => {
   return (
     <Layout>
       <div className='con-h'>
-        <div className='con618'>
+        <div className='con618-reverse'>
           <p>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat
             consectetur sunt veniam eius ratione aspernatur minus, obcaecati
@@ -16,8 +16,9 @@ const Page1 = () => {
             quasi quae delectus sit, similique nam, nostrum sequi expedita,
             maxime neque cupiditate id reiciendis fugit ullam.
           </p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius nisi praesentium dignissimos nesciunt unde sequi provident ratione, dolor ipsa laborum quos animi asperiores ullam consectetur sunt consequatur commodi sapiente hic?</p>
         </div>
-        <div className='con382'>
+        <div className='con382-reverse'>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
             aut omnis vel nisi. Perferendis sed unde quis quasi, nulla

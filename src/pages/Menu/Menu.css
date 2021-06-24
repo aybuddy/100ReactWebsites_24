@@ -1,0 +1,12 @@
+.menu-container {
+  width: 100%;
+  display: flex;
+}
+
+.menu-con-h {
+  flex-wrap: wrap;
+}
+
+.flex-end {
+  align-self: flex-end;
+}
